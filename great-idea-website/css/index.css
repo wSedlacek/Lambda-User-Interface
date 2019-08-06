@@ -256,3 +256,9 @@ section.child-3 span {
   height: 200px;
   margin: 50px 0;
 }
+
+footer {
+  width: 100%;
+  text-align: center;
+  margin: 50px 0 80px;
+}
