@@ -257,6 +257,10 @@ section.child-3 span {
   margin: 50px 0;
 }
 
+address {
+  font-size: 18px;
+}
+
 footer {
   width: 100%;
   text-align: center;
