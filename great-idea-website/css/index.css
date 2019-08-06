@@ -173,3 +173,11 @@ nav img {
   top: 0;
   right: 0;
 }
+
+hr {
+  background-color: #000;
+  border: 0 none;
+  color: #000;
+  height: 1px;
+  margin: 50px 0;
+}
