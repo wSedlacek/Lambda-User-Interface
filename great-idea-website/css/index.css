@@ -150,3 +150,7 @@ h5 {
 }
 
 /* Your code starts here! */
+
+body {
+  margin: 75px;
+}
